@@ -1,3 +1,6 @@
+
+
+
 h1 {
     font-size: x-large;
     text-decoration:;
@@ -11,9 +14,9 @@ h2 {
 
 .img-fluid {
     margin-top: 40px;
-    margin-left: 50px;
-    width: 300px;
-    height: 300px;
+    margin-left: 120px;
+    /* width: 300px;
+    height: 300px; */
     border:2px solid #fff;
     background: url(img/self.jpg) no-repeat;
     -moz-box-shadow: 10px 10px 5px #ccc;
@@ -34,6 +37,4 @@ h4 {
 
 
 
-/* .col-md-12 h2 {
-    text-align: center;
-} */
+

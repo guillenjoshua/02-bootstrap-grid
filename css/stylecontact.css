@@ -1,0 +1,19 @@
+h1 {
+    text-decoration: underline;
+}
+
+.display-4 {
+    padding: 50px;
+}
+
+.social a {
+    font-size: 36px;
+    padding: 2rem;
+}
+
+.fa-linkedin-square:hover,
+.fa-github:hover,
+.fa-google:hover,
+.fa-yahoo:hover {
+    color: #d5d5d5;
+}

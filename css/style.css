@@ -1,19 +1,24 @@
 
 
-
-h1 {
-    font-size: x-large;
-    text-decoration:;
+.nav-link {
+    color: black;
 }
+
+
 h2 {
     font-size: 50pxs;
-    margin-top: 40px;
+    margin-top: 125px;
     text-align: left;
-    
+    color: black;
+}
+
+p {
+    color: black; 
+    font-weight: bolder;
 }
 
 .img-fluid {
-    margin-top: 40px;
+    margin-top: 125px;
     margin-left: 120px;
     /* width: 300px;
     height: 300px; */
@@ -27,20 +32,11 @@ h2 {
     border-radius:25px;
 }
 
-.display-4 {
-    text-decoration: underline;
-}
-
-h4 {
-    padding-top: 40px;
-}
 
 footer {
-    margin-top: 100px;
+    /* margin-top: 2rem; */
+    padding-top: 5rem;
+    background-color: #4285f4;
+    color: black;
 }
-
-.nav-link {
-    text-emphasis-color: yellow;
-}
-
 

@@ -4,12 +4,13 @@ h1 {
 
 .display-4 {
     padding: 50px;
+    color: #d5d5d5;
 }
 
-.social a {
+/* .social a {
     font-size: 36px;
     padding: 2rem;
-}
+} */
 
 .fa-linkedin-square:hover,
 .fa-github:hover,
@@ -17,3 +18,20 @@ h1 {
 .fa-yahoo:hover {
     color: #d5d5d5;
 }
+
+
+.social {
+    background-color: #4285f4;
+    padding-top: 50px;
+}
+
+.soc a {
+    font-size: 36px;
+    padding: 2rem;
+}
+
+footer {
+    background-color: #4285f4;
+    padding: 4rem;
+}
+

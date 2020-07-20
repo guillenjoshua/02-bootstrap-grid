@@ -1,8 +1,27 @@
 
-h1 {
-    padding: 25px;
+.portfolio {
+    background-color: #4285f4;
+} 
+
+
+ h1 {
+    padding: 50px;
+    color: #d5d5d5;
 }
 
 .display-4 {
     text-decoration: underline;
+    /* background-color: lightskyblue; */
+}
+
+footer {
+    padding-top: 10rem;
+}
+
+.card {
+    margin: 30px;
+}
+
+footer {
+    background-color: #4285f4;
 }
